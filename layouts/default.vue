@@ -2,6 +2,7 @@
   <div>
     <AppHeader />
     <div class="container">
+      <br>
       <nuxt />
     </div>
   </div>
