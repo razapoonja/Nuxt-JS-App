@@ -1,12 +1,14 @@
 <template>
-  <div>Welcome To Nuxt-JS App</div>
+  <div>
+    <h1>Jokes</h1>
+  </div>
 </template>
 
 <script>
 export default {
   head() {
     return {
-      title: "Nuxt-JS App"
+      title: "Jokes",
     };
   }
 };
